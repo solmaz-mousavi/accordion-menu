@@ -1,0 +1,14 @@
+@import '../base/base';
+
+.menu-content{
+	@include transition;
+	display: flex;
+	justify-content: space-evenly;
+	gap: 20px;
+	border: 1px solid #ccc;
+	padding: 20px;
+	position: relative;
+	top: -20px;
+	opacity: 0;
+}
+

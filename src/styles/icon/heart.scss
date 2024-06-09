@@ -1,0 +1,17 @@
+.red-heart, .white-heart{
+	width: 24px;
+	margin: 0px auto;
+	position: absolute;
+	bottom: 10px;
+	right: 0;
+	left: 0;
+	cursor: pointer;
+}
+
+.red-heart{
+	color: #ccc;
+}
+
+.white-heart{
+	color: red;
+}
